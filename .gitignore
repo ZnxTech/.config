@@ -9,6 +9,7 @@
 # - Hyprland
 !hypr/hyprland.conf
 !hypr/hyprpaper.conf
+!hypr/screenshot_keyless.sh
 
 # - Kitty
 !kitty/*
