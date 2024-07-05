@@ -1,0 +1,8 @@
+###############
+# WOFI CONFIG #
+###############
+
+stylesheet=./style.css
+
+width=28.125%
+height=50%

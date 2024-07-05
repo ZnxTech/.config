@@ -1,0 +1,23 @@
+# Whitelisting:
+# #############
+*
+!*/
+!.gitignore
+
+# Configs:
+# ########
+# - Hyprland
+!hypr/hyprland.conf
+!hypr/hyprpaper.conf
+
+# - Kitty
+!kitty/*
+
+# - NeoFetch
+!neofetch/*
+
+# - Waybar
+!waybar/*
+
+# - Wofi
+!wofi/*
