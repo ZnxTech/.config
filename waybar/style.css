@@ -21,13 +21,16 @@
 /* @define-color alert-main-1 #f04061; */
 /* @define-color alert-main-2 #f7768e; */
 
+/* Temp pink color #e430a2 */
+
+
 
 /* Main bar: */
 window#waybar {
 	background-color: #1a1b26;
 	border-width: 2px;
 	border-style: solid;
-	border-image: linear-gradient(178deg, #9870e2 0%, #9870e2 30%, #2ac3de 100%) 1 stretch;
+	border-image: linear-gradient(178deg, #e430a2 0%, #2ac3de 100%) 1 stretch;
 	border-radius: 0px;
 	color: #a9b1d6;
 	padding: 10px;
