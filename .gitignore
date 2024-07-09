@@ -13,6 +13,9 @@
 !hypr/hyprpaper.conf
 !hypr/screenshot_keyless.sh
 
+# - Gammastep
+!gammastep/config.ini
+
 # - Kitty
 !kitty/*
 
