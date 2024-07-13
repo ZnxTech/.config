@@ -21,7 +21,10 @@
 /* @define-color alert-main-1 #f04061; */
 /* @define-color alert-main-2 #f7768e; */
 
-/* Temp pink color #e430a2 */
+/* ViolinWP colors */
+/* @define-color wallpaper-main-1 #cf43AA */
+/* @define-color wallpaper-main-2 #5926c4 */
+/* @define-color wallpaper-dark-1 #370859 */
 
 
 
@@ -30,7 +33,7 @@ window#waybar {
 	background-color: #1a1b26;
 	border-width: 2px;
 	border-style: solid;
-	border-image: linear-gradient(178deg, #e430a2 0%, #2ac3de 100%) 1 stretch;
+	border-image: linear-gradient(178deg, #cf43AA 0%, #5926c4 100%) 1 stretch;
 	border-radius: 0px;
 	color: #a9b1d6;
 	padding: 10px;
