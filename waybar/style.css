@@ -26,6 +26,11 @@
 /* @define-color wallpaper-main-2 #5926c4 */
 /* @define-color wallpaper-dark-1 #370859 */
 
+/* SpacemanWP colors */
+/* @define-color wallpaper-main-1 #003bd0 */
+/* @define-color wallpaper-main-2 #396af1 */
+/* @define-color wallpaper-main-3 #b2c6f3 */
+
 
 
 /* Main bar: */
@@ -33,11 +38,11 @@ window#waybar {
 	background-color: #1a1b26;
 	border-width: 2px;
 	border-style: solid;
-	border-image: linear-gradient(178deg, #cf43AA 0%, #5926c4 100%) 1 stretch;
+	border-image: linear-gradient(178deg, #b2c6f3 0%, #396af1 100%) 1 stretch;
 	border-radius: 0px;
 	color: #a9b1d6;
 	padding: 10px;
-}
+} 
 
 /* Workspaces */
 #workspaces button {
