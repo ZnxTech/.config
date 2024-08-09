@@ -1,6 +1,6 @@
 {
     // Bar config:
-    "layer": "top",
+    "layer": "bottom",
     "position": "top",
     "height": 40,
     // "spacing": 5,
