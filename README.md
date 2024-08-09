@@ -1,7 +1,9 @@
 Packages:
 ```
-yay -S --needed hyprland hyprpaper waybar kitty gammastep wofi neofetch grim slurp firefox dolphin
+yay -S --needed hyprland hyprpaper waybar kitty gammastep wofi fastfetch grim slurp
 ```
 
-**Preview**
-![](https://znx.s-ul.eu/NgSaEjhF)
+Preview:
+![](https://znx.s-ul.eu/jWdOXYoE)
+![](https://znx.s-ul.eu/OqhiTbQw)
+![](https://znx.s-ul.eu/8mZqe5tm)
