@@ -25,6 +25,9 @@
 # - NeoFetch
 !neofetch/*
 
+# - FastFetch
+!fastfetch/*
+
 # - Waybar
 !waybar/*
 
